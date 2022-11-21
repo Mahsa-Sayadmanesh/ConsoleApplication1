@@ -9,6 +9,7 @@ namespace ConsoleApp1 {
         static void Main(string[] args) {
             Console.WriteLine("Hello world!");
             //comment 2
+            Console.WriteLine("Feature branch 3 - development 1");
         }
     }
 }
